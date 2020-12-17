@@ -6,4 +6,4 @@ Here you can find a lot of my repositories for various projects and assignments 
 
 Here are some links that you can connect with me on :earth_americas::
 - <a href="https://www.linkedin.com/in/tylerkummer/">LinkedIn</a>
-- <a href="www.tylerkummer.com">Website</a>
+- <a href="https://www.tylerkummer.com/">Website</a>
